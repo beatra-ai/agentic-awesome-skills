@@ -636,3 +636,5 @@ Original documentation and other non-code written content are licensed under [CC
 ---
 
 
+
+- **[beatra-ai/lyrics-to-song-skill](https://github.com/beatra-ai/lyrics-to-song-skill)**: Official Beatra source for the `suno-lyrics-to-song` skill - paid, hosted work installed from a digest-pinned 0.2.0 archive byte-identical to commit `2facaac` with self-update disabled before first use (MIT-0).
